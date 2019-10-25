@@ -6,6 +6,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
+/*
+ *
+ *  Un commantaire repondant à l'exigence #3
+ *
+ */
 public class SimpleStackImplTest {
 
     SimpleStack simpleStack;
